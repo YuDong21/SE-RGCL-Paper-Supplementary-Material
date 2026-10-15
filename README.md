@@ -8,4 +8,4 @@ This repository contains the **Supplementary Material (Appendix)** for the paper
 
 Due to space constraints in the main manuscript, we provide additional experimental results and detailed evaluations in this repository.
 
-### [YDong_appendix.pdf](./YDong_appendix.pdf) (Click to view)
+### [YDong_appendix.pdf](./Supplementary Material for SE-RGCL) (Click to view)
